@@ -8,6 +8,5 @@ scala_library(
         "A.scala",
         ],
     deps=[
-        "@repo_b//:b"
         ],
 )
