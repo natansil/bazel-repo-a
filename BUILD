@@ -16,7 +16,4 @@ scala_library(
     srcs=[
         "A.scala",
         ],
-    deps=[
-        "@repo_b//:b2"
-        ],
 )    
