@@ -1,3 +1,5 @@
+workspace(name = "repo_a")
+
 rules_scala_version="7b9b89b70bfd6935ccfc9886105471ba4b733fd1"
 
 http_archive(
