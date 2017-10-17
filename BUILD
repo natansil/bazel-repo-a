@@ -11,6 +11,6 @@ scala_library(
 scala_library(
     name="a2",
     srcs=[
-        "A.scala",
+        "Foo.scala",
         ],
 )    
